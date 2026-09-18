@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Client-side CSV upload, exploration, filtering and sorting dashboard built with React + Vite.",
   "scripts": {
-    "start": "vite",
+    "start": "vite --host 0.0.0.0",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
